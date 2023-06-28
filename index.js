@@ -1,9 +1,11 @@
 function isPalindrome(word) {
   // Write your algorithm here
+  console.log(isPalindrome)
 }
 
 /* 
   Add your pseudocode here
+  
 */
 
 /*
@@ -22,4 +24,4 @@ if (require.main === module) {
   console.log("=>", isPalindrome("robot"));
 }
 
-module.exports = isPalindrome;
+Module.exports = isPalindrome;
